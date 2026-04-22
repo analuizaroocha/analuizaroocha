@@ -1,10 +1,9 @@
 # 👩‍💻 Ana Luiza Rocha
 
-**'Analista de Dados'**
+**'Analista de Dados | BI'**
 
 
-Me chamo Ana Luiza, sou natural de Belo Horizonte (MG), graduada em Biomedicina e atual estudante de Ciência da Computação. Atuo como Analista de Dados e sou apaixonada pela convergência entre tecnologia, ciência, inovação e pesquisa.
-
+Me chamo Ana Luiza, sou natural de Belo Horizonte (MG), graduada em Ciência da Computação.
 <p align="left">
     <a href="https://github.com/analuizaroocha?tab=repositories">
         <img 
