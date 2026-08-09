@@ -1,9 +1,15 @@
 # 👩‍💻 Ana Luiza Rocha
 
-**'Analista de Dados | BI'**
+## 👋 Sobre mim
 
+🔎 Curiosa por natureza, apaixonada por dados e tecnologia.
 
-Me chamo Ana Luiza, sou natural de Belo Horizonte (MG), graduada em Ciência da Computação.
+Atualmente atuo como Analista de Dados no universo de iGaming, com experiência em análise de risco, monitoramento e comportamento de jogadores. Gosto de transformar dados em insights e buscar novas formas de entender problemas e encontrar soluções.
+
+🎰 iGaming & Risco  
+📊 Dados, BI & Análise de Risco  
+🎓 Ciência da Computação  
+🌱 Engenharia de Dados|Aprendiz
 <p align="left">
     <a href="https://github.com/analuizaroocha?tab=repositories">
         <img 
