@@ -4,7 +4,8 @@
 
 🔎 Curiosa por natureza, apaixonada por dados e tecnologia.
 
-Analista de Dados atuando no universo de iGaming & Risco, trabalhando com análise, monitoramento, Excel e indicadores para transformar dados em insights.
+Sou Analista de Dados atuando no mercado de iGaming, com foco em Análise de Risco. Minha rotina envolve monitoramento de jogadores, análise de transações, identificação de padrões e comportamentos suspeitos, acompanhamento de indicadores e geração de insights para apoiar decisões.
+No meu dia a dia, utilizo ferramentas como **Excel, SQL, Power BI, Python e Pandas** para explorar, organizar, analisar e visualizar dados.
 
 🎰 iGaming & Risco  
 📊 Dados, BI & Análise de Risco  
