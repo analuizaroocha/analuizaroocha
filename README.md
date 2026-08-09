@@ -4,7 +4,7 @@
 
 🔎 Curiosa por natureza, apaixonada por dados e tecnologia.
 
-Atualmente atuo como Analista de Dados no universo de iGaming, com experiência em análise de risco, monitoramento e comportamento de jogadores. Gosto de transformar dados em insights e buscar novas formas de entender problemas e encontrar soluções.
+Analista de Dados atuando no universo de iGaming & Risco, trabalhando com análise, monitoramento, Excel e indicadores para transformar dados em insights.
 
 🎰 iGaming & Risco  
 📊 Dados, BI & Análise de Risco  
